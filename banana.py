@@ -1,4 +1,5 @@
 print{"banana"}
 print{"apple"}
 print{"lemon"}
-pring{"pears"}
+print{"pears"}
+print{"laddo"}
